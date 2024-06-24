@@ -1,0 +1,23 @@
+<view class="custom-navbar">
+  自定义
+</view>
+<view class="navs">
+<text>精选</text>
+<text>手机</text>
+<text>食品</text>
+<text>生鲜</text>
+<text>母婴，，</text>
+
+</view>
+<view>
+<view class="msg">
+XXX{{msg}}
+<navigator url="/pages/demo/index">跳转?</navigator>
+</view>
+
+<button size="mini" type="primary" bind:tap="setMsg" >
+
+默认按钮
+</button>
+
+</view>

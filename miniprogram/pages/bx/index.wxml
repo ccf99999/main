@@ -1,0 +1,17 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="bg-box">
+    <view class="bg-text">中信银行与百度</view>
+    <view class="bg-text">联手打造的<text class="ai-bank">AI银行</text></view>
+  </view>a
+  <view class="bx-box">
+    <view>优选保险</view>
+    <view class="bx-content">
+      <view class="bx-content-item" bindtap="triggleTab">切换tab
+      </view>
+    </view>
+  </view>
+
+
+
+</view>

@@ -1,0 +1,17 @@
+.custom-navbar{
+  height:44px;
+  padding-top:20px;
+  text-align: center;
+}
+.navs{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  height:44px;
+  line-height: 44px;
+  border:1px solid #666
+}
+.msg{
+  width:750rpx;
+  background-color: yellow;
+}
