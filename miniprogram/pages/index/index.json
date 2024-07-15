@@ -1,7 +1,4 @@
 {
-  "usingComponents": {
-    "cloud-tip-modal": "/components/cloudTipModal/index"
-  },
-  "navigationStyle": "custom",
-  "enablePullDownRefresh": true
+  "usingComponents": {},
+  "navigationBarBackgroundColor": "#d2dde8"
 }
